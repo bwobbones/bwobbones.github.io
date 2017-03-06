@@ -1,2 +1,3 @@
 name: Build a Boardgame!
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
